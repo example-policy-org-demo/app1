@@ -5,4 +5,4 @@ commonLabels:
   mycompany.com/policy-version: "1.0.0"
 
 resources:
-  - deployment.yaml
+  - db.yaml
